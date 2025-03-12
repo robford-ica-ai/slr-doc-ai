@@ -108,3 +108,4 @@ package-lock.json
 
 # VScode file
 .vscode
+.env
